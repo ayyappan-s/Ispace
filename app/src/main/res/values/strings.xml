@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Ispace</string>
+    <string name="main_activity_title">Ispace</string>
+    <string name="info_list_text">List of Information about space</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="search">Search</string>
 </resources>
